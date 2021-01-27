@@ -5,7 +5,7 @@ By: xM-1
 ]]--  
 
 print("+++++++++++++++++++++++++++++")
-print("| Return Weapon initialized |")
+print("| Save Inv initialized |")
 print("+++++++++++++++++++++++++++++")
 
 kstat = {}
