@@ -11,8 +11,3 @@ USAGE :
 Unzip it and throw it into your lua folder, simple as that. 
 
 Check the console to ensure it initializes when your server boots up. 
-
-
-CONTACT : 
-
-Contact me here.
