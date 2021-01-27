@@ -6,8 +6,7 @@ DESCRIPTION :
 
 Some server owners don't have the means to make these scripts or pay a developer to make them. So I'm releasing my one publicly as I don't play GMOD anymore, it may need some touch ups but it should work without issue. If you do have an issue you can report it on here and I will do my best to help you out. It should work for most RP gamemodes including DarkRP , StarwarsRP and SantosRP. 
 
-USAGE : 
-
+Installation : 
 Unzip it and throw it into your lua folder, simple as that. 
 
 Check the console to ensure it initializes when your server boots up. 
